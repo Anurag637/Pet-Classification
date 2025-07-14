@@ -82,7 +82,7 @@ pip install tensorflow numpy matplotlib notebook
 
 ## ✍️ Author
 
-**Anurag Singh**  
+**Anurag Pandey**  
 [GitHub Profile](https://github.com/Anurag637)
 
 ---
